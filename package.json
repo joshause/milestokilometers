@@ -1,15 +1,13 @@
 {
   "name": "miles-to-kilometers",
   "title": "milestokilometers.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
+  "main": "milestokilometers.js",
   "description": "Converts miles to kilometers",
   "devDependencies": {
     "jasmine": "latest"
   },
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/joshause/milestokilometers.js.git"
-  },
+  "repository": "joshause/milestokilometers",
   "keywords": [
     "miles to kilometers",
     "milestokilometers",
@@ -25,11 +23,8 @@
   "scripts": {
     "test": "jasmine tests/*.js"
   },
-  "licenses": [{
-            "type": "MIT",
-            "url": "http://www.opensource.org/licenses/MIT"
-        }],
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/joshause/milestokilometers.js/issues"
+    "url": "https://github.com/joshause/milestokilometers/issues"
   }
 }

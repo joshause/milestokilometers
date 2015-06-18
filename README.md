@@ -10,7 +10,7 @@ JavaScript conversion of miles to kilometers.
 ### Node.js
 
 ```js
-var MilesToKilometers = require("./milestokilometers");
+var MilesToKilometers = require("milestokilometers");
 var mtk = new MilesToKilometers();
 mtk.get(1);
 // => 1.60934
