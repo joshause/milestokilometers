@@ -1,7 +1,7 @@
 {
   "name": "miles-to-kilometers",
   "title": "milestokilometers.js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "milestokilometers.js",
   "description": "Converts miles to kilometers",
   "devDependencies": {
